@@ -18,7 +18,7 @@ I started the task by scraping review data from the Skytrax website using a Jupy
 
 Upon obtaining the dataset, I initiated the data preparation phase to address the inherent messiness and focus on text-based reviews. Employing Python, I performed data cleaning to enhance the dataset's suitability for analysis.
 
-For the analysis, I explored sentiment analysis. This method provided valuable insights into the content of the reviews, allowing me to identify key themes, sentiments, and frequently occurring words.
+For the analysis, I explored sentiment analysis and word clouds. These methods provided valuable insights into the content of the reviews, allowing me to identify key themes, sentiments, and frequently occurring words.
 
 To present the findings, I created visualizations and metrics that encapsulate the essence of the dataset. These visuals, accompanied by clear and concise explanations, were compiled into a single PowerPoint slide.
 
