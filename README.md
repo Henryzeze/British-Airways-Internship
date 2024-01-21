@@ -54,5 +54,5 @@ Summarizing the outcomes in a concise manner, I utilized PowerPoint to craft a p
 
 ## Certificate of Completion
 
-![](British Airways_completion_certificate.jpg)
+![](British_Airways_completion_certificate.jpg)
 
