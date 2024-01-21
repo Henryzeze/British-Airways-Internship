@@ -1,6 +1,6 @@
 # British-Airways-Internship
 
-![]()
+![](cover.jpg)
 
 ## Overview
 
@@ -47,6 +47,12 @@ Post-training, I rigorously evaluated the model's performance using cross-valida
 ### Variable Contribution Visualization
 To interpret the model's inner workings, I created visualizations that illustrated how each variable contributed to the predictive power. This not only provided a clearer understanding of the model but also facilitated communication of the results to non-technical stakeholders.
 
-Findings Presentation
+## Findings Presentation
 Summarizing the outcomes in a concise manner, I utilized PowerPoint to craft a presentation slide. This slide encapsulates the key findings, the model's performance metrics, and visual representations of variable contributions. The goal is to succinctly communicate the model's effectiveness and insights to our manager.
+
+![](Summary.JPG)
+
+## Certificate of Completion
+
+![](British Airways_completion_certificate.jpg)
 
